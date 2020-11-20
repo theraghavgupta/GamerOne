@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(218, 17, 34);
+}
+
+.title{
+    color: white;
+    margin-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    padding-bottom: 48px;
+}
+
+.container{
+    border-style: solid;
+    border-color: white;
+    border-radius: 4px;
+}
+
+.heading{
+    color: white;
+    font-size: 27px;
+    font-style: italic;
+    padding-top: 10px;
+    padding-left:10px;
+}
+.details{
+    padding-bottom: 10px;
+}
+.name{
+    color: white;
+    margin-top: 29px;
+    font-size: 19px;
+    font-weight: bolder;
+    padding-left:10px;
+    
+}
+.nameBox{
+    margin-left: 10% ;
+    font-size: 17px;
+    color: white;
+    border-color: black;
+    border-style: solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-width: medium;
+    
+}
+#Gname{
+    padding-bottom: 20px;
+}
